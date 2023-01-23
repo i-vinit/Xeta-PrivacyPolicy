@@ -63,14 +63,26 @@ All message content will automatically be removed after 2 weeks.
 
 ***
 
-## `[5]` I'm questioning why do you need all this data, and this Privacy Policy doesn't answer my question. What should I do?
+## `[5]` What we store for logging?
+### While If you are in a server where Champ is setup for logging messages of the discord server then you make sure that your messages which are sent or edited by you are tracked in order to send the message for logging.
+### We store your message content and your discord user id because the bot will mention you as the author of the message.
+
+***
+
+## `[6]` What is the usage of Message content?
+### Xeta will store some part of your message content in some server where the logging is enabled because the bot will have to log to the server that what message is sent by you which is deleted or edited.
+### Xeta will log that message content too which is edited by you that will show the admin what was your actual message in that server.
+
+***
+
+## `[7]` I'm questioning why do you need all this data, and this Privacy Policy doesn't answer my question. What should I do?
 
 #### You can reach us by the following things:
 - Join our [Support Server](https://discord.gg/HVCrytuysw) on discord
 - Contact me on [discord](https://discord.gg/HVCrytuysw)
 
 ***
-## `[6]` How can we delete our entire data?
+## `[8]` How can we delete our entire data?
 
 ### Simply join our support server and ask any of the bot moderator to delete your data. They will delete your entire data without asking any questions.
 ***
