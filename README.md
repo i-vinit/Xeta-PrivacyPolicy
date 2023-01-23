@@ -64,7 +64,7 @@ All message content will automatically be removed after 2 weeks.
 ***
 
 ## `[5]` What we store for logging?
-### While If you are in a server where Champ is setup for logging messages of the discord server then you make sure that your messages which are sent or edited by you are tracked in order to send the message for logging.
+### While If you are in a server where Xeta is setup for logging messages of the discord server then you make sure that your messages which are sent or edited by you are tracked in order to send the message for logging.
 ### We store your message content and your discord user id because the bot will mention you as the author of the message.
 
 ***
