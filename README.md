@@ -38,13 +38,13 @@
 
 • Discord user data (like reminders and pronouns)
 
-Our bot only gathers personally identifiable data through commands run using the bot. This information helps us provide a better user experience for all Champ's users.
+Our bot only gathers personally identifiable data through commands run using the bot. This information helps us provide a better user experience for all Xeta's users.
 
 We store this data on MongoDB private cluster and it will be deleted if you are not using our bot for the future.
 
 Note that the data will be reset to the default automatically if the bot is still in your server.
 
-To get user data removed please contact us in our [Support Server](https://discord.gg/p3WJ5gcdBY).
+To get user data removed please contact us in our [Support Server](https://discord.gg/HVCrytuysw).
 
 All message content will automatically be removed after 2 weeks.
 
